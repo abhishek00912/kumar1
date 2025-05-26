@@ -54,3 +54,5 @@ Click reset() → Counter becomes 0
 This project is licensed under the MIT License.
 
 Contact address 0xaa4baff860e34ab7273eda99891f4512b710b821
+<img width="934" alt="Screenshot 2025-05-26 144101" src="https://github.com/user-attachments/assets/70347fc2-9fac-4088-bc2f-4676ffe44c98" />
+
